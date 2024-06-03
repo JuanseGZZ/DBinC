@@ -1,0 +1,4 @@
+char(nombre)[45][req][protected]
+type(name)[size][requered][segurity]
+
+structures create_module regiones char(ALDEA)[45][true][protected] int(valor)[2][true][free]
